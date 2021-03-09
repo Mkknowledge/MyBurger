@@ -1,2 +1,2 @@
 * linguist-vendored
-*.react linguist-vendored=false
+*.js linguist-vendored=false
